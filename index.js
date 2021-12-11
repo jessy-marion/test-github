@@ -3,4 +3,4 @@ interaction.addEventListener("click", () => {
     interaction.style.background = "purple";
 });
 
-console.log("Hello world")
+alert("salut ma poule !");
