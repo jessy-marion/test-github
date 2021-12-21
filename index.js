@@ -8,3 +8,5 @@ alert("salut ma poule !");
 function foo() {
     console.log("Hello World");
 };
+
+console.log("Hello, World");
