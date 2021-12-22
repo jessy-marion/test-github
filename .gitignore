@@ -1,0 +1,3 @@
+secrets.xxx
+*.env
+/node_modules
