@@ -2,6 +2,14 @@ Documentation :
 
   - Experimentations avec git et github afin de mémoriser les commandes et les subtilités de l'interface graphique de github
 
+```html
+<h1>Bonjour</h1>
+```
+
+  ```javascript
+  console.log(Hello world !);
+  ```
+
   A First Level Header
 ====================
 
